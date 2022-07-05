@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "6d08750b-2565-4093-b000-d780e5cd7c99",
+    "name": "Test",
+    "default": true,
+    "sortNum": 10000,
+    "created": "2022-07-05T08:15:46.348Z",
+    "modified": "2022-07-05T08:15:58.585Z",
+    "data": [],
+    "envFile": "\\\\wsl.localhost\\fedora\\home\\prince\\projects\\test\\.env"
+  }
+]

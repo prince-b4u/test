@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "9be05f4b-e3cc-4e37-9fe9-4af539a440c8",
+    "colId": "22dddda0-f9aa-46ee-ac92-e86278060403",
+    "containerId": "",
+    "name": "JSONPH",
+    "url": "{{URL}}/posts",
+    "method": "POST",
+    "sortNum": 10000,
+    "created": "2022-07-05T08:15:26.607Z",
+    "modified": "2022-07-05T08:22:52.489Z",
+    "headers": [
+      {
+        "name": "Content-Type",
+        "value": "application/json"
+      }
+    ],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n    \"title\":\"foo\",\n    \"body\": \"bar\",\n    \"userId\": 1\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]
