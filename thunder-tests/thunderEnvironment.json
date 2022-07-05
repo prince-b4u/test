@@ -5,8 +5,8 @@
     "default": true,
     "sortNum": 10000,
     "created": "2022-07-05T08:15:46.348Z",
-    "modified": "2022-07-05T08:15:58.585Z",
+    "modified": "2022-07-05T08:45:03.348Z",
     "data": [],
-    "envFile": "\\\\wsl.localhost\\fedora\\home\\prince\\projects\\test\\.env"
+    "envFile": "C:\\Users\\Dell\\Desktop\\Projects\\test\\.env"
   }
 ]
