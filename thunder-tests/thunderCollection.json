@@ -4,6 +4,11 @@
     "colName": "Test",
     "created": "2022-07-05T08:12:34.785Z",
     "sortNum": 10000,
-    "folders": []
+    "folders": [],
+    "settings": {
+      "headers": [],
+      "tests": [],
+      "envId": "6d08750b-2565-4093-b000-d780e5cd7c99"
+    }
   }
 ]
