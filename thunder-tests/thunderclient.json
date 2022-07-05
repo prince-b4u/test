@@ -5,10 +5,10 @@
     "containerId": "",
     "name": "JSONPH",
     "url": "{{URL}}/posts",
-    "method": "GET",
+    "method": "POST",
     "sortNum": 10000,
     "created": "2022-07-05T08:15:26.607Z",
-    "modified": "2022-07-05T08:33:56.745Z",
+    "modified": "2022-07-05T08:46:28.753Z",
     "headers": [
       {
         "name": "Content-Type",
@@ -16,6 +16,11 @@
       }
     ],
     "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n    \"title\": \"foo\",\n    \"body\": \"bar\",\n    \"userId\": 1\n}",
+      "form": []
+    },
     "tests": []
   }
 ]
